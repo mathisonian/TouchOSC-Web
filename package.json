@@ -1,0 +1,25 @@
+{
+  "name": "js-osc",
+  "description": "OSC and Javascript",
+  "version": "0.0.1",
+  "author": [
+    "Matthew Conlen <mc@mathisonian.com>"
+  ],
+  "dependencies": {
+    "express": ">= 2.5.8",
+    "mongodb": ">=0.9.9-4",
+    "request": ">= 2.9.152",
+    "jade": ">= 0.0.1",
+    "lodash": "1.2.1",
+    "socket.io": "",
+    "amqp": "",
+    "mongoose": "",
+    "node-osc": ""
+  },
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
